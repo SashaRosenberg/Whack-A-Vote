@@ -1,0 +1,5 @@
+1. Ensure the package Containing the crayons and the table is installed
+2. Ensure VRTK and SteamVR are installed
+3. Create tag "Crayon" and assign it to all pens
+4. Assign the CamerRig to the CameraRig feild in the "WritingScript"
+5. Assign a empty child where the CameraRig inside the voting booth should move to upon Main Menu to the "MoveRigToPoint" feild
